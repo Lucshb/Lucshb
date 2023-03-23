@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lucas Henrique de Barros</h1>
 <h3 align="center">A passionate BI/Data Analist and a current student of Data Engineer</h3>
 
-- 🌱 I’m currently learning **Python and Clound Services**
+- 🙋🏾‍♀️ I worked with Data Protection Law and at the moment I am a Business Intelligence Analyst in a transport company. I create amazing dashboards, delivering insights to company managers and administrators and helping them solve business problems.
 
-- 🔭 I’m currently working on Business Intelligence and Data Analyrics **Transportadora Garbuio**
+  • 🌱 I’m currently learning **Python and Clound Services**
 
-- 💬 Ask me about **SQL Server, Power BI, ETL and Azure**
+  • 🔭 I’m currently working on Business Intelligence and Data Analyrics **Transportadora Garbuio**
 
-- 📫 How to reach me **barroslucash@gmail.com**
+  • 💬 Ask me about **SQL Server, Power BI, ETL and Azure**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-h-barros/](https://www.linkedin.com/in/lucas-h-barros/)
+  • 📫 How to reach me **barroslucash@gmail.com**
+
+  • 📄 Know about my experiences [https://www.linkedin.com/in/lucas-h-barros/](https://www.linkedin.com/in/lucas-h-barros/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
