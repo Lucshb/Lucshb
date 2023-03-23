@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Henrique de Barros</h1>
 <h3 align="center">A passionate BI/Data Analist and a current student of Data Engineer</h3>
 
+
 - 🙋🏾‍♀️ I worked with Data Protection Law and at the moment I am a Business Intelligence Analyst in a transport company. I create amazing dashboards, delivering insights to company managers and administrators and helping them solve business problems.
 
   • 🌱 I’m currently learning **Python and Clound Services**
