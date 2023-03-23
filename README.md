@@ -9,7 +9,7 @@
 
   • 🔭 I’m currently working on Business Intelligence and Data Analyrics **Transportadora Garbuio**
   
-  • 👯 I’m looking to collaborate on **SQL Server, ETL and Data Visualization projects**
+  • 👯 I’m looking to collaborate on **Data base, ETL and Data Visualization projects**
 
   • 💬 Ask me about **SQL Server, Power BI, ETL and Azure**
 
